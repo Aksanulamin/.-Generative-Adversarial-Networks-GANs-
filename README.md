@@ -1,3 +1,4 @@
+**MNIST-GANs-kelompok4**
 MNIST GANs (Generate Adversarial Networks)
 
 Tugas Besar Mata Kuliah AI & Big Data Analysis
